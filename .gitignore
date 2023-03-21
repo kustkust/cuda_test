@@ -1,0 +1,10 @@
+/.vscode
+/QR_CGS
+/QR_CGS_python_old.py
+/cuda_test
+/cuda_test.cu
+/qr_api.py
+/sample_cuda_python.py
+/sample_pycuda.py
+/test_cuda_python.py
+/test_pycuda-1.py
